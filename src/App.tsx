@@ -7,7 +7,7 @@ import Icon from "./components/Icon";
 
 function App() {
   const [size, setSize] = useState(10);
-  const [color, setColor] = useState("#0099bd");
+  const [color, setColor] = useState("#5f6527");
   const [baseColor, setBaseColor] = useState("#000000");
   const [bgColor, setBgColor] = useState("#ffffff");
 
